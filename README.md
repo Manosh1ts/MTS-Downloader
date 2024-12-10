@@ -1,6 +1,8 @@
 # MTS Downloader 
 Creditos: https://bit.ly/Manoshits
 
+*Me Ajude com Encurtador:* https://fir3.net/MTS-Downloader
+
 **MTS Downloader** é um programa simples para download de músicas e playlists do YouTube em formato MP3. Ele permite que você baixe músicas de forma prática e rápida, com um design simples e funcional.
 
 ## Funcionalidades
