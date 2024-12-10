@@ -1,4 +1,4 @@
-('C:\\Users\\User\\Desktop\\baixar_musica\\build\\MTS-DOWNLOADER\\PYZ-00.pyz',
+('C:\\Users\\User\\Desktop\\mts_downloader\\build\\MTS-DOWNLOADER\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
