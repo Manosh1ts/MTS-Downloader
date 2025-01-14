@@ -2,7 +2,7 @@
 Creditos: https://bit.ly/Manoshits
 Ajuda na Interface: https://www.youtube.com/@JohnzinNTV
 
-# Por Enquanto apenas Suporte Para Youtube!
+# Por Enquanto apenas Suporte Para Youtube!!
 
 *Me Ajude com Encurtador:* https://fir3.net/MTS-Downloader
 
