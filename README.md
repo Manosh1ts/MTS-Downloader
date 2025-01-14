@@ -1,5 +1,6 @@
 # MTS Downloader 
 Creditos: https://bit.ly/Manoshits
+Ajuda na Interface: https://www.youtube.com/@JohnzinNTV
 
 # Por Enquanto apenas Suporte Para Youtube!
 
