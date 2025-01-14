@@ -1,0 +1,16 @@
+Bem-vindo ao MTS Downloader!
+
+Este programa permite que você baixe músicas e playlists diretamente do YouTube.
+Para começar, basta inserir o link da música ou playlist desejada e clicar em "Baixar".
+
+Instruções:
+
+Inserir o link: Coloque o URL da música ou playlist no campo indicado.
+Baixar a música: Clique no botão "Baixar" para iniciar o download.
+Cancelar download: Se necessário, clique em "Cancelar" para interromper o processo.
+Onde os arquivos serão salvos: As músicas serão baixadas na sua pasta de Downloads.
+Dúvidas ou problemas?
+Visite nosso canal do YouTube ou consulte nossa página de ajuda.
+
+Clique em OK para continuar.
+
